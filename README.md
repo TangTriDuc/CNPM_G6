@@ -8,7 +8,7 @@ Participants:
 - Member: Nguyễn Trung Hiếu-19521507
 
 
-Task management table: [here](https://trello.com/b/TWVZuMC1/group-anh-ch%E1%BB%8B-em) [Replace by your public board later]
+Task management table: [here](https://trello.com/b/TWVZuMC1/group-anh-ch%E1%BB%8B-em) 
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
