@@ -10,7 +10,7 @@ Participants:
 
 Task management table: [here](https://trello.com/b/TWVZuMC1/group-anh-ch%E1%BB%8B-em) 
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
+UI / UX prototype: [here].(https://www.figma.com/file/9udHeHqSKIbplF9qCKv3v8/Untitled?node-id=0%3A1)
 
 Tech stacks:
 
